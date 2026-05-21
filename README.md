@@ -8,7 +8,7 @@
 building thoughtful systems & creative digital experiences 🌊
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A8D8EA&height=120&section=footer"/>
+<img src="https://i.imgur.com/YOUR_DIVIDER.gif" width="100%">
 
 ## 🌴 about me
 
@@ -25,7 +25,7 @@ currently exploring:
 AI • Cyber Security • Data Analysis • creative technology
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A8D8EA&height=120&section=footer"/>
+<img src="https://i.imgur.com/YOUR_DIVIDER.gif" width="100%">
 
 ## 🐠 current projects
 
@@ -39,7 +39,7 @@ AI • Cyber Security • Data Analysis • creative technology
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=building+cool+things+by+the+sea;AI+systems+%2B+creative+technology;designing+calm+digital+spaces&center=true&width=700&height=45&color=4ECDC4)](https://git.io/typing-svg)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A8D8EA&height=120&section=footer"/>
+<img src="https://i.imgur.com/YOUR_DIVIDER.gif" width="100%">
 
 ## 🌺 tech stack
 
@@ -50,19 +50,25 @@ AI • Cyber Security • Data Analysis • creative technology
   <img src="https://img.shields.io/badge/Docker-9BF6FF?style=for-the-badge&logo=docker&logoColor=black">
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A8D8EA&height=120&section=footer"/>
+<img src="https://i.imgur.com/YOUR_DIVIDER.gif" width="100%">
 
 ## 🌊 github stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nayonika-Nair)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A8D8EA&height=120&section=footer"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Nayonika-Nair)
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&bg_color=FDF6EC&title_color=C97B63&text_color=7A4E38&icon_color=F4A261&border_color=F6C7B6&border_radius=15"
+/>
+
+<img src="https://i.imgur.com/YOUR_DIVIDER.gif" width="100%">
 
 ## 🏖️ little corner of the internet
 
 > technology should feel calm, human, and a little sunlit.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A8D8EA&height=120&section=footer"/>
+<img src="https://i.imgur.com/YOUR_DIVIDER.gif" width="100%">
 
 ## 🌺 connect
 

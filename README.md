@@ -38,6 +38,8 @@ AI • Cyber Security • Data Analysis • creative technology
 
 ☀️ creative AI experiments
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=building+cool+things+by+the+sea;AI+systems+%2B+creative+technology;designing+calm+digital+spaces&center=true&width=700&height=45&color=4ECDC4)](https://git.io/typing-svg)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A8D8EA&height=120&section=footer"/>
 
 ## 🌺 tech stack

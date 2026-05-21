@@ -2,7 +2,7 @@
   <img src="YOUR_BANNER_LINK">
 </p>
 
-<h1 align="center">☀️ hey, i'm YOUR_NAME</h1>
+<h1 align="center">☀️ hey, i'm Nayonika</h1>
 
 <p align="center">
 building thoughtful systems & creative digital experiences 🌊
@@ -22,7 +22,7 @@ i enjoy building:
 currently exploring:
 
 ```txt
-AI • FastAPI • anomaly detection • creative technology
+AI • Cyber Security • Data Analysis • creative technology
 ```
 
 ---
@@ -33,7 +33,7 @@ AI • FastAPI • anomaly detection • creative technology
 
 🌴 anomaly detection workflows
 
-🐚 nature-inspired architecture visualizations
+🐚 cyber security
 
 ☀️ creative AI experiments
 

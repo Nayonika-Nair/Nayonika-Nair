@@ -8,7 +8,12 @@
 building thoughtful systems & creative digital experiences 🌊
 </p>
 
-<img src="https://i.imgur.com/https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="100%">
+<div align="center">
+  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
+  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
+  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
+  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
+</div>
 
 
 ## 🌴 about me

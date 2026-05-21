@@ -8,7 +8,7 @@
 building thoughtful systems & creative digital experiences 🌊
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A8D8EA&height=120&section=footer"/>
 
 ## 🌴 about me
 
@@ -25,7 +25,8 @@ currently exploring:
 AI • Cyber Security • Data Analysis • creative technology
 ```
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=building+cool+things+by+the+sea;AI+systems+%2B+creative+technology;designing+calm+digital+spaces&center=true&width=700&height=45&color=4ECDC4)](https://git.io/typing-svg)
----
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A8D8EA&height=120&section=footer"/>
 
 ## 🐠 current projects
 
@@ -37,7 +38,7 @@ AI • Cyber Security • Data Analysis • creative technology
 
 ☀️ creative AI experiments
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A8D8EA&height=120&section=footer"/>
 
 ## 🌺 tech stack
 
@@ -48,19 +49,19 @@ AI • Cyber Security • Data Analysis • creative technology
   <img src="https://img.shields.io/badge/Docker-9BF6FF?style=for-the-badge&logo=docker&logoColor=black">
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A8D8EA&height=120&section=footer"/>
 
 ## 🌊 github stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A8D8EA&height=120&section=footer"/>
 
 ## 🏖️ little corner of the internet
 
 > technology should feel calm, human, and a little sunlit.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A8D8EA&height=120&section=footer"/>
 
 ## 🌺 connect
 

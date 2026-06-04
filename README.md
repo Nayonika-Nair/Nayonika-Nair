@@ -141,3 +141,6 @@ AI • Cyber Security • Data Analysis • creative technology
 ## 🌺 connect
 
 linkedin • portfolio • email
+
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)

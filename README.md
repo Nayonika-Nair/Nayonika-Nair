@@ -143,4 +143,4 @@ AI • Cyber Security • Data Analysis • creative technology
 linkedin • portfolio • email
 
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayonika-Nair&theme=github-dark)
+![Snake animation](https://github.com/Nayonika-Nair/Nayonika-Nair/blob/output/github-contribution-grid-snake.svg)

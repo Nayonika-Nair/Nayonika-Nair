@@ -1,25 +1,9 @@
-<p align="center">
-  <img src="YOUR_BANNER_LINK">
-</p>
 
 <h1 align="center">☀️ hey, i'm Nayonika</h1>
 
 <p align="center">
 building thoughtful systems & creative digital experiences 🌊
 </p>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-</div>
 
 
 ## 🌴 about me
@@ -39,15 +23,6 @@ AI • Cyber Security • Data Analysis • creative technology
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
 </div>
 
 ## 🐠 current projects
@@ -62,18 +37,6 @@ AI • Cyber Security • Data Analysis • creative technology
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=building+cool+things+by+the+sea;AI+systems+%2B+creative+technology;designing+calm+digital+spaces&center=true&width=700&height=45&color=4ECDC4)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-</div>
 
 ## 🌺 tech stack
 
@@ -84,63 +47,18 @@ AI • Cyber Security • Data Analysis • creative technology
   <img src="https://img.shields.io/badge/Docker-9BF6FF?style=for-the-badge&logo=docker&logoColor=black">
 </p>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-</div>
-
-## 🌊 github stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Nayonika-Nair)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Nayonika-Nair)
 
 <img 
   src="https://github-readme-stats.vercel.app/api?username=Nayonika-Nair&show_icons=true&theme=default&bg_color=FDF6EC&title_color=C97B63&text_color=7A4E38&icon_color=F4A261&border_color=F6C7B6&border_radius=15"
 />
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-</div>
 
 
 ## 🏖️ little corner of the internet
 
 > technology should feel calm, human, and a little sunlit.
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-  <img src="https://i.pinimg.com/originals/b7/b8/87/b7b8874092e7748a6740a2545dea47d4.gif" width="80">
-</div>
 
 ## 🌺 connect
 
 linkedin • portfolio • email
 
-
-![Snake animation](https://github.com/Nayonika-Nair/Nayonika-Nair/blob/output/github-contribution-grid-snake.svg)

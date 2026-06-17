@@ -45,6 +45,44 @@ AI • Cyber Security • Data Analysis • creative technology
   <img src="https://img.shields.io/badge/FastAPI-A8E6CF?style=for-the-badge&logo=fastapi&logoColor=black">
   <img src="https://img.shields.io/badge/PostgreSQL-B8E1FF?style=for-the-badge&logo=postgresql&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-9BF6FF?style=for-the-badge&logo=docker&logoColor=black">
+  <h2>🌸 Tech Stack</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-FFE599?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-F4CCCC?style=for-the-badge&logo=openjdk&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-D9EAD3?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-D0E0E3?style=for-the-badge&logo=cplusplus&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-EAD1DC?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-D9D2E9?style=for-the-badge&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-FFF2CC?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-CFE2F3?style=for-the-badge&logo=typescript&logoColor=black" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AI-EAD1DC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-D9EAD3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-B6D7A8?style=for-the-badge&logo=fastapi&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-CFE2F3?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-D9EAD3?style=for-the-badge&logo=supabase&logoColor=black" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-C9DAF8?style=for-the-badge&logo=postgresql&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-FCE5CD?style=for-the-badge&logo=mysql&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-D9EAD3?style=for-the-badge&logo=mongodb&logoColor=black" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-B7E1CD?style=for-the-badge&logo=docker&logoColor=black" />
+  <img src="https://img.shields.io/badge/Wireshark-CFE2F3?style=for-the-badge&logo=wireshark&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-D9D2E9?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ARM-EAD1DC?style=for-the-badge&logo=arm&logoColor=black" />
+  <img src="https://img.shields.io/badge/Verilog-D9EAD3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Assembly-CFE2F3?style=for-the-badge" />
+</p>
 </p>
 
 

@@ -45,10 +45,7 @@ AI • Cyber Security • Data Analysis • creative technology
   <img src="https://img.shields.io/badge/FastAPI-A8E6CF?style=for-the-badge&logo=fastapi&logoColor=black">
   <img src="https://img.shields.io/badge/PostgreSQL-B8E1FF?style=for-the-badge&logo=postgresql&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-9BF6FF?style=for-the-badge&logo=docker&logoColor=black">
-  <h2>🌸 Tech Stack</h2>
-
 <p>
-  <img src="https://img.shields.io/badge/Python-FFE599?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-F4CCCC?style=for-the-badge&logo=openjdk&logoColor=black" />
   <img src="https://img.shields.io/badge/C-D9EAD3?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-D0E0E3?style=for-the-badge&logo=cplusplus&logoColor=black" />
@@ -67,7 +64,6 @@ AI • Cyber Security • Data Analysis • creative technology
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-C9DAF8?style=for-the-badge&logo=postgresql&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-FCE5CD?style=for-the-badge&logo=mysql&logoColor=black" />
   <img src="https://img.shields.io/badge/MongoDB-D9EAD3?style=for-the-badge&logo=mongodb&logoColor=black" />
 </p>
